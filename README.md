@@ -9,8 +9,12 @@ Since the malls can be huge and people may get lost. This Program stores informa
 Data includes Name, Shop Number and Timings.
 
 
+
 The Program itself is categorised into 2, Admin and Customer.
 > Admin gives access to the administration who have to log in by using a username and password.
 
 > Choosing the 'Customer' option will again ask for a username and password which is different from the Admin one.
 >Here the Customer gets to view information about all the shops. He/She can search a specific shop as well.
+
+
+*Note: This project was done back in December 2018.*
